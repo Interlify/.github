@@ -1,3 +1,3 @@
 ## Interlify
 
-Integrate your APIs to LLM in minutes - not month!
+Connect your APIs to LLMs in minutes - not weeks!
